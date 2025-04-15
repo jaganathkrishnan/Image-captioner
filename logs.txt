@@ -1,0 +1,18 @@
+BASIC | a man sitting down and looking at the camera
+BASIC | a man sitting on the floor
+BASIC | a banana with a sticker on it
+PROMPTED: WHAT IS THE MAN DOING | what is the man doing this?
+PROMPTED: BANANA | banana banana on the wall
+PROMPTED: WHAT IS THE MAN DOING? | what is the man doing?
+WITH_CONFIDENCE | a man in a red shirt
+PROMPTED: WHAT IS THE MAN DOING? | what is the man doing?
+PROMPTED: WHAT IS THE MAN DOING? | what is the man doing?
+PROMPTED: A DETAILED DESCRIPTION OF WHAT THE MAN IS DOING IN THE IMAGE: | a detailed description of what the man is doing in the image :
+BASIC | two men are standing next to a wall
+BASIC | two men sitting on a bed
+BASIC | a man with a beard
+BASIC | a man with a beard
+BASIC | a man with a red shirt
+BASIC | a man holding a water bottle with a measuring scale
+BASIC | a man with a beard
+WITH_CONFIDENCE | a man with a beard
