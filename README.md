@@ -21,7 +21,7 @@ This project is a modern image captioning web application built using the **BLIP
 ## 🛠 Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/image-captioning-app
+git clone https://github.com/jaganathkrishnan/Image-captioner.git
 cd image-captioning-app
 pip install -r requirements.txt
 python app.py
